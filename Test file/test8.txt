@@ -1,0 +1,4 @@
+operand1 := +2 ;
+operand2 := 3 * - 4 ;
+operand3 := 2*/3 ;
+target = operand1 + operand2 + operand3

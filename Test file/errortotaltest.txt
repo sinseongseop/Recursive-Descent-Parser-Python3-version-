@@ -1,0 +1,16 @@
+error1 := 10
+if := 5 ;
+error3_1 : 2 * 3 ;
+error3_2 = 2 + 2 ;
+error4 2 - 1 ;
+error5 := ;
+error6 := +3;
+error7 := 1+-2;
+error8 := 4+;
+error9 := *4*3;
+error10 := 3* ;
+error11 := 3 / 0;
+error12 :=  2*/3;
+error13 := a ;
+error14 := (2 + 1 ;
+error15 := 3*-1;
